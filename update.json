@@ -1,0 +1,9 @@
+{
+ "version": "1.0.1",
+ "url": "https://github.com/JamiButt/clipagent-updates/releases/download/v1.0.1/ClipAgentPro-Setup.exe",
+ "sha256": "c804c230addda7e03614f4dab0016fb7fdc096c8ebc65934a045ee998c68c2c2",
+ "size": 443274026,
+ "notes": "First build with the update button.",
+ "released": "2026-11-02T00:10:52",
+ "sig": "0E+B5ZwVSQ2Q8EDj28e5YPOZnEFzND9gE0ZMCyIT5vBSTLTGMFlu2TOykfpTKl40CiCLXu12vGSDGWDHvwNLAw=="
+}
