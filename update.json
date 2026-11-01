@@ -1,9 +1,9 @@
 {
- "version": "1.0.1",
- "url": "https://github.com/JamiButt/clipagent-updates/releases/download/v1.0.1/ClipAgentPro-Setup.exe",
- "sha256": "c804c230addda7e03614f4dab0016fb7fdc096c8ebc65934a045ee998c68c2c2",
- "size": 443274026,
- "notes": "First build with the update button.",
- "released": "2026-11-02T00:10:52",
- "sig": "0E+B5ZwVSQ2Q8EDj28e5YPOZnEFzND9gE0ZMCyIT5vBSTLTGMFlu2TOykfpTKl40CiCLXu12vGSDGWDHvwNLAw=="
+ "version": "1.0.2",
+ "url": "https://github.com/JamiButt/clipagent-updates/releases/download/v1.0.2/ClipAgentPro-Setup.exe",
+ "sha256": "9ca59b1880b5760060b3c8370546eedeb2653ee7b36ccf359ad314e68f4514a5",
+ "size": 443251241,
+ "notes": "Fixes colour problems in glow, light leak and whip zoom effects; more reliable rendering.",
+ "released": "2026-11-02T03:32:27",
+ "sig": "iNsiEWtL2/dm2zqMTayCSBigN7ouTqcNma7evdiNqp9tTR5VKRjFK8B+UR+s0I/ycYngE80U3BKhffX3gUXgAg=="
 }
