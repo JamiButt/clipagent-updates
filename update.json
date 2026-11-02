@@ -1,9 +1,9 @@
 {
- "version": "1.0.3",
+ "version": "1.0.0",
  "url": "https://github.com/JamiButt/clipagent-updates/releases/download/v1.0.3/ClipAgentPro-Setup.exe",
  "sha256": "554100ce117a533fa2a097bc836b83840bf9d2d80cbf7a015161e1cc2e6de0b6",
  "size": 443286579,
- "notes": "Camera stays on the speaker (no more drifting to the side); footage without faces is followed by movement; long titles fit the picture; lighter and more reliable rendering.",
- "released": "2026-11-02T06:24:25",
- "sig": "D5G2IbjzpUjUlEMBbXBFwQ68Yucqvjj6Pxk/GjpFsGkQGB2+gMoPrX7Yx94oFUtQfSwPDYGxeT9SyKT87/awDA=="
+ "notes": "No update is available.",
+ "released": "2026-11-02T16:53:32",
+ "sig": "4rSrARzCkD+byC6hSWQMDda4sd4ydNS5PT+80D4LACds0oezvmUKzIjW5M5mhiBmyXdB6Gpu/dYIHbFA47kDCg=="
 }
