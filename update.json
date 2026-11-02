@@ -1,9 +1,9 @@
 {
- "version": "1.0.2",
- "url": "https://github.com/JamiButt/clipagent-updates/releases/download/v1.0.2/ClipAgentPro-Setup.exe",
- "sha256": "9ca59b1880b5760060b3c8370546eedeb2653ee7b36ccf359ad314e68f4514a5",
- "size": 443251241,
- "notes": "Fixes colour problems in glow, light leak and whip zoom effects; more reliable rendering.",
- "released": "2026-11-02T03:32:27",
- "sig": "iNsiEWtL2/dm2zqMTayCSBigN7ouTqcNma7evdiNqp9tTR5VKRjFK8B+UR+s0I/ycYngE80U3BKhffX3gUXgAg=="
+ "version": "1.0.3",
+ "url": "https://github.com/JamiButt/clipagent-updates/releases/download/v1.0.3/ClipAgentPro-Setup.exe",
+ "sha256": "554100ce117a533fa2a097bc836b83840bf9d2d80cbf7a015161e1cc2e6de0b6",
+ "size": 443286579,
+ "notes": "Camera stays on the speaker (no more drifting to the side); footage without faces is followed by movement; long titles fit the picture; lighter and more reliable rendering.",
+ "released": "2026-11-02T06:24:25",
+ "sig": "D5G2IbjzpUjUlEMBbXBFwQ68Yucqvjj6Pxk/GjpFsGkQGB2+gMoPrX7Yx94oFUtQfSwPDYGxeT9SyKT87/awDA=="
 }
